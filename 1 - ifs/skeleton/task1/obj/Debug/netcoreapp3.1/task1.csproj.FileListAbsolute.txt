@@ -1,0 +1,23 @@
+/Users/noormosia/Desktop/C# Projects/ifs/task1/bin/Debug/netcoreapp3.1/task1
+/Users/noormosia/Desktop/C# Projects/ifs/task1/bin/Debug/netcoreapp3.1/task1.deps.json
+/Users/noormosia/Desktop/C# Projects/ifs/task1/bin/Debug/netcoreapp3.1/task1.runtimeconfig.json
+/Users/noormosia/Desktop/C# Projects/ifs/task1/bin/Debug/netcoreapp3.1/task1.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C# Projects/ifs/task1/bin/Debug/netcoreapp3.1/task1.dll
+/Users/noormosia/Desktop/C# Projects/ifs/task1/bin/Debug/netcoreapp3.1/task1.pdb
+/Users/noormosia/Desktop/C# Projects/ifs/task1/obj/Debug/netcoreapp3.1/task1.csproj.AssemblyReference.cache
+/Users/noormosia/Desktop/C# Projects/ifs/task1/obj/Debug/netcoreapp3.1/task1.csproj.CoreCompileInputs.cache
+/Users/noormosia/Desktop/C# Projects/ifs/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C# Projects/ifs/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfo.cs
+/Users/noormosia/Desktop/C# Projects/ifs/task1/obj/Debug/netcoreapp3.1/task1.dll
+/Users/noormosia/Desktop/C# Projects/ifs/task1/obj/Debug/netcoreapp3.1/task1.pdb
+/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/bin/Debug/netcoreapp3.1/task1
+/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/bin/Debug/netcoreapp3.1/task1.deps.json
+/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/bin/Debug/netcoreapp3.1/task1.runtimeconfig.json
+/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/bin/Debug/netcoreapp3.1/task1.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/bin/Debug/netcoreapp3.1/task1.dll
+/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/bin/Debug/netcoreapp3.1/task1.pdb
+/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/obj/Debug/netcoreapp3.1/task1.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/obj/Debug/netcoreapp3.1/task1.AssemblyInfo.cs
+/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/obj/Debug/netcoreapp3.1/task1.dll
+/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/obj/Debug/netcoreapp3.1/task1.pdb
