@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+
+Write a program that displays numbers 1 to 10;
+
+*/
+
+using System;
 
 namespace task1
 {
