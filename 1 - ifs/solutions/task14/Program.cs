@@ -7,6 +7,8 @@ And Who is the youngest
 
 */
 
+
+
 using System;
 
 namespace task14
@@ -15,7 +17,16 @@ namespace task14
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Enter Tom's age: ");
+            int tomAge = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter Tom's age: ");
+            int dickAge = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter Tom's age: ");
+            int harryAge = int.Parse(Console.ReadLine());
+
+            
         }
     }
 }

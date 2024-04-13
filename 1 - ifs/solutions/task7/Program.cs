@@ -6,6 +6,10 @@ vowel or a consonent.
 
 */
 
+// vowel aeiou
+
+// ask a user for a letter
+// check if it is a vowel or consonent
 
 using System;
 
@@ -15,7 +19,18 @@ namespace task7
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Enter an alphabet: ");
+            char alphabet = char.Parse(Console.ReadLine());
+
+            if(alphabet=='a' || alphabet=='e' || alphabet=='i' || alphabet=='o' || alphabet=='u'
+            || alphabet=='A' || alphabet=='E' || alphabet=='I' || alphabet=='O' || alphabet=='U')
+            {
+                Console.WriteLine("{0} is a vowel", alphabet);
+            } else {
+                Console.WriteLine("{0} is a consonent", alphabet);
+
+            }
+            
         }
     }
 }

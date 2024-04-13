@@ -7,7 +7,7 @@ then display the absolute value of the number
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 Format of output
 ---
-"Absolute value of $userInput is: $absoluteValue"
+"Absolute value of userInput is: absoluteValue"
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 */
 
@@ -19,7 +19,16 @@ namespace task13
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Enter a number: ");
+            int number = int.Parse(Console.ReadLine());
+
+            if(number >= 0){
+                Console.WriteLine("The absolute value of the number is {0}",number);
+            }
+            else{
+                Console.WriteLine("The absolute value of the number is {0}",number * -1);
+            }
+
         }
     }
 }

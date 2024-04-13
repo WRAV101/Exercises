@@ -28,7 +28,37 @@ namespace task12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Enter the hardness of the steel: ");
+            int hardness = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter the Carbon content of the steel: ");
+            double carbon = double.Parse(Console.ReadLine());
+
+            Console.Write("Enter the Tensile strength of the steel: ");
+            int tensile = int.Parse(Console.ReadLine());
+
+            if((hardness>50) && (carbon<0.7) && (tensile>5600))
+            {
+                Console.WriteLine("Grade 10");
+            } 
+            else if((hardness>50) && (carbon<0.7) )
+            {
+                Console.WriteLine("Grade 9");
+            } 
+            else if( (carbon<0.7) && (tensile>5600))
+            {
+                Console.WriteLine("Grade 8");
+            } 
+            else if((hardness>50) && (tensile>5600)){
+                Console.WriteLine("Grade 7");
+            } 
+            else if((hardness>50) || (carbon<0.7) || (tensile>5600))
+            {
+                Console.WriteLine("Grade 6");
+            } else
+            {
+                Console.WriteLine("Grade 5");
+            } 
         }
     }
 }

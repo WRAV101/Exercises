@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task12/task12.csproj": {}
+    "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task12/task12.csproj": {}
   },
   "projects": {
-    "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task12/task12.csproj": {
+    "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task12/task12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task12/task12.csproj",
+        "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task12/task12.csproj",
         "projectName": "task12",
-        "projectPath": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task12/task12.csproj",
+        "projectPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task12/task12.csproj",
         "packagesPath": "/Users/noormosia/.nuget/packages/",
-        "outputPath": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task12/obj/",
+        "outputPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task12/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/noormosia/.nuget/NuGet/NuGet.Config"

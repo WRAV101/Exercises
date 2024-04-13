@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task15/task15.csproj": {}
+    "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task15/task15.csproj": {}
   },
   "projects": {
-    "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task15/task15.csproj": {
+    "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task15/task15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task15/task15.csproj",
+        "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task15/task15.csproj",
         "projectName": "task15",
-        "projectPath": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task15/task15.csproj",
+        "projectPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task15/task15.csproj",
         "packagesPath": "/Users/noormosia/.nuget/packages/",
-        "outputPath": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task15/obj/",
+        "outputPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task15/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/noormosia/.nuget/NuGet/NuGet.Config"

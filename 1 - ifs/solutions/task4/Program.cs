@@ -23,6 +23,10 @@ Test data
 56      -> divisible by neither
 */
 
+
+//ask a user for 1 number
+// then do the checks
+
 using System;
 
 namespace task4
@@ -31,7 +35,24 @@ namespace task4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter a number: ");
+            int number = int.Parse(Console.ReadLine());
+
+            if((number%5 == 0) && (number%11 == 0))
+            {
+                Console.WriteLine("divisible by both");
+            } else if(number%5 == 0)
+            {
+                Console.WriteLine("divisible by 5 only");
+
+            } else if(number%11 == 0)
+            {
+                Console.WriteLine("divisible by 11 only");
+
+            } else {
+                Console.WriteLine("not divisible by neither.");
+
+            }
         }
     }
 }

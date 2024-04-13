@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/noormosia/Desktop/C# Projects/ifs/task5/task5.csproj": {}
+    "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task5/task5.csproj": {}
   },
   "projects": {
-    "/Users/noormosia/Desktop/C# Projects/ifs/task5/task5.csproj": {
+    "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task5/task5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/ifs/task5/task5.csproj",
+        "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task5/task5.csproj",
         "projectName": "task5",
-        "projectPath": "/Users/noormosia/Desktop/C# Projects/ifs/task5/task5.csproj",
+        "projectPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task5/task5.csproj",
         "packagesPath": "/Users/noormosia/.nuget/packages/",
-        "outputPath": "/Users/noormosia/Desktop/C# Projects/ifs/task5/obj/",
+        "outputPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/noormosia/.nuget/NuGet/NuGet.Config"

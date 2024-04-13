@@ -1,12 +1,21 @@
 ﻿using System;
 
+            //Scope 
+
 namespace code_with_notes
 {
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        { // opening 
+
+            if(number == 6)
+            {
+                int number = 6;
+            }
+            
+            Console.WriteLine(number);
+
+        } // closing
     }
 }

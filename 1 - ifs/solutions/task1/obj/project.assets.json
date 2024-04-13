@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/task1.csproj",
+      "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task1/task1.csproj",
       "projectName": "task1",
-      "projectPath": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/task1.csproj",
+      "projectPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task1/task1.csproj",
       "packagesPath": "/Users/noormosia/.nuget/packages/",
-      "outputPath": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task1/obj/",
+      "outputPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/noormosia/.nuget/NuGet/NuGet.Config"

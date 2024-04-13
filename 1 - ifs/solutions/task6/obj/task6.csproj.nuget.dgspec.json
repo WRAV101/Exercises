@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/noormosia/Desktop/C# Projects/ifs/task6/task6.csproj": {}
+    "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task6/task6.csproj": {}
   },
   "projects": {
-    "/Users/noormosia/Desktop/C# Projects/ifs/task6/task6.csproj": {
+    "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task6/task6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/ifs/task6/task6.csproj",
+        "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task6/task6.csproj",
         "projectName": "task6",
-        "projectPath": "/Users/noormosia/Desktop/C# Projects/ifs/task6/task6.csproj",
+        "projectPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task6/task6.csproj",
         "packagesPath": "/Users/noormosia/.nuget/packages/",
-        "outputPath": "/Users/noormosia/Desktop/C# Projects/ifs/task6/obj/",
+        "outputPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/noormosia/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/noormosia/Desktop/C# Projects/ifs/task4/task4.csproj": {}
+    "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task4/task4.csproj": {}
   },
   "projects": {
-    "/Users/noormosia/Desktop/C# Projects/ifs/task4/task4.csproj": {
+    "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task4/task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/ifs/task4/task4.csproj",
+        "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task4/task4.csproj",
         "projectName": "task4",
-        "projectPath": "/Users/noormosia/Desktop/C# Projects/ifs/task4/task4.csproj",
+        "projectPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task4/task4.csproj",
         "packagesPath": "/Users/noormosia/.nuget/packages/",
-        "outputPath": "/Users/noormosia/Desktop/C# Projects/ifs/task4/obj/",
+        "outputPath": "/Users/noormosia/Desktop/C# Projects/1 - ifs/solutions/task4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/noormosia/.nuget/NuGet/NuGet.Config"
