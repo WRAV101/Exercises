@@ -1,6 +1,8 @@
 ﻿/*
+
 Write a program that prompts a user to enter 2 numbers
 it should then display the bigger number.
+
 */
 
 using System;
