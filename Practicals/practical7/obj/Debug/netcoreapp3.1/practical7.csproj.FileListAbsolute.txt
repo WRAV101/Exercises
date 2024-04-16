@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/C#/Practicals/practical7/bin/Debug/netcoreapp3.1/practical7
+/Users/noormosia/Desktop/C#/Practicals/practical7/bin/Debug/netcoreapp3.1/practical7.deps.json
+/Users/noormosia/Desktop/C#/Practicals/practical7/bin/Debug/netcoreapp3.1/practical7.runtimeconfig.json
+/Users/noormosia/Desktop/C#/Practicals/practical7/bin/Debug/netcoreapp3.1/practical7.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C#/Practicals/practical7/bin/Debug/netcoreapp3.1/practical7.dll
+/Users/noormosia/Desktop/C#/Practicals/practical7/bin/Debug/netcoreapp3.1/practical7.pdb
+/Users/noormosia/Desktop/C#/Practicals/practical7/obj/Debug/netcoreapp3.1/practical7.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/Practicals/practical7/obj/Debug/netcoreapp3.1/practical7.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/Practicals/practical7/obj/Debug/netcoreapp3.1/practical7.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/Practicals/practical7/obj/Debug/netcoreapp3.1/practical7.dll
+/Users/noormosia/Desktop/C#/Practicals/practical7/obj/Debug/netcoreapp3.1/practical7.pdb
