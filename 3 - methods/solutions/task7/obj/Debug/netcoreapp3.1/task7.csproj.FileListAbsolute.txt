@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task7/obj/Debug/netcoreapp3.1/task7.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task7/obj/Debug/netcoreapp3.1/task7.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task7/obj/Debug/netcoreapp3.1/task7.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task7/bin/Debug/netcoreapp3.1/task7
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task7/bin/Debug/netcoreapp3.1/task7.deps.json
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task7/bin/Debug/netcoreapp3.1/task7.runtimeconfig.json
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task7/bin/Debug/netcoreapp3.1/task7.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task7/bin/Debug/netcoreapp3.1/task7.dll
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task7/bin/Debug/netcoreapp3.1/task7.pdb
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task7/obj/Debug/netcoreapp3.1/task7.dll
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task7/obj/Debug/netcoreapp3.1/task7.pdb

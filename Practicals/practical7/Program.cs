@@ -1,6 +1,8 @@
 ﻿using System;
 using static System.Console;
 
+
+//checking something
 /*
 
 GetMark 

@@ -1,0 +1,14 @@
+/Users/noormosia/Desktop/C#/3 - while loops/solutions/task4/obj/Debug/netcoreapp3.1/task4.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/3 - while loops/solutions/task4/obj/Debug/netcoreapp3.1/task4.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/3 - while loops/solutions/task4/obj/Debug/netcoreapp3.1/task4.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task4/bin/Debug/netcoreapp3.1/task4
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task4/bin/Debug/netcoreapp3.1/task4.deps.json
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task4/bin/Debug/netcoreapp3.1/task4.runtimeconfig.json
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task4/bin/Debug/netcoreapp3.1/task4.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task4/bin/Debug/netcoreapp3.1/task4.dll
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task4/bin/Debug/netcoreapp3.1/task4.pdb
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task4/obj/Debug/netcoreapp3.1/task4.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task4/obj/Debug/netcoreapp3.1/task4.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task4/obj/Debug/netcoreapp3.1/task4.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task4/obj/Debug/netcoreapp3.1/task4.dll
+/Users/noormosia/Desktop/C#/3 - methods/solutions/task4/obj/Debug/netcoreapp3.1/task4.pdb
