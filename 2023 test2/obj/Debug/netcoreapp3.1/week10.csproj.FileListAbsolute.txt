@@ -1,0 +1,22 @@
+/Users/noormosia/Desktop/Class Code/week10/bin/Debug/netcoreapp3.1/week10
+/Users/noormosia/Desktop/Class Code/week10/bin/Debug/netcoreapp3.1/week10.deps.json
+/Users/noormosia/Desktop/Class Code/week10/bin/Debug/netcoreapp3.1/week10.runtimeconfig.json
+/Users/noormosia/Desktop/Class Code/week10/bin/Debug/netcoreapp3.1/week10.runtimeconfig.dev.json
+/Users/noormosia/Desktop/Class Code/week10/bin/Debug/netcoreapp3.1/week10.dll
+/Users/noormosia/Desktop/Class Code/week10/bin/Debug/netcoreapp3.1/week10.pdb
+/Users/noormosia/Desktop/Class Code/week10/obj/Debug/netcoreapp3.1/week10.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/Class Code/week10/obj/Debug/netcoreapp3.1/week10.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/Class Code/week10/obj/Debug/netcoreapp3.1/week10.AssemblyInfo.cs
+/Users/noormosia/Desktop/Class Code/week10/obj/Debug/netcoreapp3.1/week10.dll
+/Users/noormosia/Desktop/Class Code/week10/obj/Debug/netcoreapp3.1/week10.pdb
+/Users/noormosia/Desktop/Class Code/2023 test2/bin/Debug/netcoreapp3.1/week10
+/Users/noormosia/Desktop/Class Code/2023 test2/bin/Debug/netcoreapp3.1/week10.deps.json
+/Users/noormosia/Desktop/Class Code/2023 test2/bin/Debug/netcoreapp3.1/week10.runtimeconfig.json
+/Users/noormosia/Desktop/Class Code/2023 test2/bin/Debug/netcoreapp3.1/week10.runtimeconfig.dev.json
+/Users/noormosia/Desktop/Class Code/2023 test2/bin/Debug/netcoreapp3.1/week10.dll
+/Users/noormosia/Desktop/Class Code/2023 test2/bin/Debug/netcoreapp3.1/week10.pdb
+/Users/noormosia/Desktop/Class Code/2023 test2/obj/Debug/netcoreapp3.1/week10.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/Class Code/2023 test2/obj/Debug/netcoreapp3.1/week10.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/Class Code/2023 test2/obj/Debug/netcoreapp3.1/week10.AssemblyInfo.cs
+/Users/noormosia/Desktop/Class Code/2023 test2/obj/Debug/netcoreapp3.1/week10.dll
+/Users/noormosia/Desktop/Class Code/2023 test2/obj/Debug/netcoreapp3.1/week10.pdb
