@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/noormosia/Desktop/C#/Practicals/Practical8/Practical8.csproj": {}
+    "/Users/noormosia/Desktop/C#/Practicals/Practical8Tuesday/Practical8.csproj": {}
   },
   "projects": {
-    "/Users/noormosia/Desktop/C#/Practicals/Practical8/Practical8.csproj": {
+    "/Users/noormosia/Desktop/C#/Practicals/Practical8Tuesday/Practical8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/noormosia/Desktop/C#/Practicals/Practical8/Practical8.csproj",
+        "projectUniqueName": "/Users/noormosia/Desktop/C#/Practicals/Practical8Tuesday/Practical8.csproj",
         "projectName": "Practical8",
-        "projectPath": "/Users/noormosia/Desktop/C#/Practicals/Practical8/Practical8.csproj",
+        "projectPath": "/Users/noormosia/Desktop/C#/Practicals/Practical8Tuesday/Practical8.csproj",
         "packagesPath": "/Users/noormosia/.nuget/packages/",
-        "outputPath": "/Users/noormosia/Desktop/C#/Practicals/Practical8/obj/",
+        "outputPath": "/Users/noormosia/Desktop/C#/Practicals/Practical8Tuesday/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/noormosia/.nuget/NuGet/NuGet.Config"
