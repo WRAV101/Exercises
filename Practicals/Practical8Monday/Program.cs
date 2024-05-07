@@ -111,7 +111,7 @@ namespace q1
 
         public static int Menu()
         {
-            Console.WriteLine("What would to do");
+            Console.WriteLine("What would you like to do");
             Console.WriteLine("1. Enter a temperature");
             Console.WriteLine("2. Display temperatures in order of entry");
             Console.WriteLine("3. Calculate and display the average");
