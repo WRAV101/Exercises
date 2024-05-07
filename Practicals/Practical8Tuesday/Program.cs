@@ -9,8 +9,6 @@ namespace Practical8
             double[] vehicles = new double[5];
             int numberOfVehicles = 0;
 
-            //ask user for vehicle
-
             int userChoice = Menu();
 
             while(userChoice != 5)
