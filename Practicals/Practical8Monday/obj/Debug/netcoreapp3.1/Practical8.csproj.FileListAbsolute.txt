@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/C#/Practicals/Practical8Monday/bin/Debug/netcoreapp3.1/Practical8
+/Users/noormosia/Desktop/C#/Practicals/Practical8Monday/bin/Debug/netcoreapp3.1/Practical8.deps.json
+/Users/noormosia/Desktop/C#/Practicals/Practical8Monday/bin/Debug/netcoreapp3.1/Practical8.runtimeconfig.json
+/Users/noormosia/Desktop/C#/Practicals/Practical8Monday/bin/Debug/netcoreapp3.1/Practical8.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C#/Practicals/Practical8Monday/bin/Debug/netcoreapp3.1/Practical8.dll
+/Users/noormosia/Desktop/C#/Practicals/Practical8Monday/bin/Debug/netcoreapp3.1/Practical8.pdb
+/Users/noormosia/Desktop/C#/Practicals/Practical8Monday/obj/Debug/netcoreapp3.1/Practical8.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/Practicals/Practical8Monday/obj/Debug/netcoreapp3.1/Practical8.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/Practicals/Practical8Monday/obj/Debug/netcoreapp3.1/Practical8.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/Practicals/Practical8Monday/obj/Debug/netcoreapp3.1/Practical8.dll
+/Users/noormosia/Desktop/C#/Practicals/Practical8Monday/obj/Debug/netcoreapp3.1/Practical8.pdb
