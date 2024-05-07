@@ -36,10 +36,6 @@ namespace q1
                 {
                     Search(temperatures, numberOfElements);
                 } 
-                else if (userChoice == 4)
-                {
-                    Console.WriteLine("Exiting Program");
-                } 
                 userChoice = Menu();
             }
 
