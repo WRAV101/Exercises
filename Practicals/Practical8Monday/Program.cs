@@ -40,8 +40,6 @@ namespace q1
                 {
                     Console.WriteLine("Exiting Program");
                 } 
-
-
                 userChoice = Menu();
             }
 
@@ -114,10 +112,10 @@ namespace q1
         public static int Menu()
         {
             Console.WriteLine("What would to do");
-            Console.WriteLine("1. Enter");
-            Console.WriteLine("2. Display temps");
-            Console.WriteLine("3. Display average");
-            Console.WriteLine("4. Search");
+            Console.WriteLine("1. Enter a temperature");
+            Console.WriteLine("2. Display temperatures in order of entry");
+            Console.WriteLine("3. Calculate and display the average");
+            Console.WriteLine("4. Search for a temperature, if found, display index position");
             Console.WriteLine("5. quit");
 
             Console.Write("Enter your choice: ");
