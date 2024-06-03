@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/obj/Debug/netcoreapp3.1/task14.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/obj/Debug/netcoreapp3.1/task14.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/obj/Debug/netcoreapp3.1/task14.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/bin/Debug/netcoreapp3.1/task14
+/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/bin/Debug/netcoreapp3.1/task14.deps.json
+/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/bin/Debug/netcoreapp3.1/task14.runtimeconfig.json
+/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/bin/Debug/netcoreapp3.1/task14.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/bin/Debug/netcoreapp3.1/task14.dll
+/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/bin/Debug/netcoreapp3.1/task14.pdb
+/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/obj/Debug/netcoreapp3.1/task14.dll
+/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/obj/Debug/netcoreapp3.1/task14.pdb

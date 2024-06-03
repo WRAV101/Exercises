@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task14/task14.csproj",
+      "projectUniqueName": "/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/task14.csproj",
       "projectName": "task14",
-      "projectPath": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task14/task14.csproj",
+      "projectPath": "/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/task14.csproj",
       "packagesPath": "/Users/noormosia/.nuget/packages/",
-      "outputPath": "/Users/noormosia/Desktop/C# Projects/ifs/1 - templates/task14/obj/",
+      "outputPath": "/Users/noormosia/Desktop/C#/1 - ifs/skeleton/task14/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/noormosia/.nuget/NuGet/NuGet.Config"

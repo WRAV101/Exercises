@@ -96,8 +96,6 @@ namespace Practical8
             }
         }
 
-
-
         public static int Menu()
         {
             Console.WriteLine("What would you like");
