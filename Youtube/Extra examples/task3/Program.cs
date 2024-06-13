@@ -15,7 +15,9 @@ namespace task3
 
             Console.ReadLine();
         }
+        //----------------end of main----------------
 
+        //Prompt user for scores 5 times to fill an array with 5 elements
         static void GetScores(int[] scores)
         {
             for(int i=0; i<5; i++)
@@ -24,7 +26,10 @@ namespace task3
                 scores[i] = int.Parse(Console.ReadLine());
             }
         }
+        //----------------end of GetScores----------------
 
+        //Calculate Bonus based on the score in each array element of scores
+        //assign the value to the array bonus with the same index
         static void CalcBonus(int[] scores, int[] bonusPoints)
         {
             for(int i=0; i<5;i++)
@@ -52,6 +57,7 @@ namespace task3
                 } 
             }
         }
+        //----------------end of CalcBonus----------------
 
         static void DisplayAll(int[] scores, int[] bonusPoints)
         {
@@ -66,7 +72,7 @@ namespace task3
             {
                 Console.Write("{0} ", bonusPoints[i]);
             }
-
         }
+        //----------------end of DisplayAll----------------
     }
 }
