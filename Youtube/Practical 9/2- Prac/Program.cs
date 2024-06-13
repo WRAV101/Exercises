@@ -26,7 +26,7 @@ namespace AddTask
                 }
             } while(choice !=4);
         }
-        //end of main
+        //---------------------------end of main---------------------------
 
         static void RemoveTask(string[] todoList, ref int numEl)
         {
