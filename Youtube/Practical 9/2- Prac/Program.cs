@@ -1,12 +1,10 @@
 ﻿using System;
 
-
-
 namespace AddTask
 {
     class Program
     {
-         static void Main(string[] args)
+        static void Main(string[] args)
         {
             string[] list = new string[10];
             int numEl = 0;
@@ -26,22 +24,20 @@ namespace AddTask
                 {
                     RemoveTask(list, ref numEl);
                 }
-
-
             } while(choice !=4);
-
-
         }
+        //end of main
 
         static void RemoveTask(string[] todoList, ref int numEl)
         {
-            if(numEl==0)
+            if(numEl==0) //if there is no elements in array. cant delete from empty array
             {
                 Console.WriteLine("There are no elements to remove.");
             } else {
                 Console.Write("Enter the element you want to remove: ");
                 string wanted = Console.ReadLine();
 
+                //find position of the task the user entered using FindTask mthod
                 int position = FindTask(todoList, numEl, wanted);
 
                 if(position == -1)
@@ -59,7 +55,7 @@ namespace AddTask
 
             }
         }
-
+        //---------------------------end of removetask---------------------------
 
         static int FindTask(string[] todoList, int numEl, string wanted)
         {
@@ -74,6 +70,7 @@ namespace AddTask
 
             return position;
         }
+        //---------------------------end of find task---------------------------
 
         static void DisplayTasks(string[] todoList, int numEl)
         {
@@ -86,7 +83,7 @@ namespace AddTask
                 Console.WriteLine("No tasks found");
             }
         }
-
+        //---------------------------end of displaytasks---------------------------
 
         static void AddTask(string[] todoList, ref int numEl)
         {
@@ -100,6 +97,7 @@ namespace AddTask
             }
 
         }
+        //---------------------------end of add task---------------------------
 
         static int DisplayOptions()
         {
@@ -121,12 +119,6 @@ namespace AddTask
 
             return choice;
         }
-
-
-        
-
-
-
-
+        //---------------------------end of display---------------------------
     }
 }
