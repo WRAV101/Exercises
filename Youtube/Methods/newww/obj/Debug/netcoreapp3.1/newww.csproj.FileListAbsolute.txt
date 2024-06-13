@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/C#/Youtube/Methods/newww/bin/Debug/netcoreapp3.1/newww
+/Users/noormosia/Desktop/C#/Youtube/Methods/newww/bin/Debug/netcoreapp3.1/newww.deps.json
+/Users/noormosia/Desktop/C#/Youtube/Methods/newww/bin/Debug/netcoreapp3.1/newww.runtimeconfig.json
+/Users/noormosia/Desktop/C#/Youtube/Methods/newww/bin/Debug/netcoreapp3.1/newww.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C#/Youtube/Methods/newww/bin/Debug/netcoreapp3.1/newww.dll
+/Users/noormosia/Desktop/C#/Youtube/Methods/newww/bin/Debug/netcoreapp3.1/newww.pdb
+/Users/noormosia/Desktop/C#/Youtube/Methods/newww/obj/Debug/netcoreapp3.1/newww.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/Youtube/Methods/newww/obj/Debug/netcoreapp3.1/newww.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/Youtube/Methods/newww/obj/Debug/netcoreapp3.1/newww.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/Youtube/Methods/newww/obj/Debug/netcoreapp3.1/newww.dll
+/Users/noormosia/Desktop/C#/Youtube/Methods/newww/obj/Debug/netcoreapp3.1/newww.pdb
