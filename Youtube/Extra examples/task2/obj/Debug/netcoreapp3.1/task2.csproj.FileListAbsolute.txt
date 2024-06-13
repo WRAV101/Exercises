@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/C#/Youtube/Extra examples/task2/obj/Debug/netcoreapp3.1/task2.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/Youtube/Extra examples/task2/obj/Debug/netcoreapp3.1/task2.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/Youtube/Extra examples/task2/obj/Debug/netcoreapp3.1/task2.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/Youtube/Extra examples/task2/bin/Debug/netcoreapp3.1/task2
+/Users/noormosia/Desktop/C#/Youtube/Extra examples/task2/bin/Debug/netcoreapp3.1/task2.deps.json
+/Users/noormosia/Desktop/C#/Youtube/Extra examples/task2/bin/Debug/netcoreapp3.1/task2.runtimeconfig.json
+/Users/noormosia/Desktop/C#/Youtube/Extra examples/task2/bin/Debug/netcoreapp3.1/task2.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C#/Youtube/Extra examples/task2/bin/Debug/netcoreapp3.1/task2.dll
+/Users/noormosia/Desktop/C#/Youtube/Extra examples/task2/bin/Debug/netcoreapp3.1/task2.pdb
+/Users/noormosia/Desktop/C#/Youtube/Extra examples/task2/obj/Debug/netcoreapp3.1/task2.dll
+/Users/noormosia/Desktop/C#/Youtube/Extra examples/task2/obj/Debug/netcoreapp3.1/task2.pdb
