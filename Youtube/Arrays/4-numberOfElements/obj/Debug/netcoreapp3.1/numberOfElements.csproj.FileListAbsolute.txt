@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/C#/Youtube/4-numberOfElements/bin/Debug/netcoreapp3.1/numberOfElements
+/Users/noormosia/Desktop/C#/Youtube/4-numberOfElements/bin/Debug/netcoreapp3.1/numberOfElements.deps.json
+/Users/noormosia/Desktop/C#/Youtube/4-numberOfElements/bin/Debug/netcoreapp3.1/numberOfElements.runtimeconfig.json
+/Users/noormosia/Desktop/C#/Youtube/4-numberOfElements/bin/Debug/netcoreapp3.1/numberOfElements.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C#/Youtube/4-numberOfElements/bin/Debug/netcoreapp3.1/numberOfElements.dll
+/Users/noormosia/Desktop/C#/Youtube/4-numberOfElements/bin/Debug/netcoreapp3.1/numberOfElements.pdb
+/Users/noormosia/Desktop/C#/Youtube/4-numberOfElements/obj/Debug/netcoreapp3.1/numberOfElements.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/Youtube/4-numberOfElements/obj/Debug/netcoreapp3.1/numberOfElements.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/Youtube/4-numberOfElements/obj/Debug/netcoreapp3.1/numberOfElements.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/Youtube/4-numberOfElements/obj/Debug/netcoreapp3.1/numberOfElements.dll
+/Users/noormosia/Desktop/C#/Youtube/4-numberOfElements/obj/Debug/netcoreapp3.1/numberOfElements.pdb

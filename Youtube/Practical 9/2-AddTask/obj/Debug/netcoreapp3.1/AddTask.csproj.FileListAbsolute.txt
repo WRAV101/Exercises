@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/2-AddTask/bin/Debug/netcoreapp3.1/AddTask
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/2-AddTask/bin/Debug/netcoreapp3.1/AddTask.deps.json
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/2-AddTask/bin/Debug/netcoreapp3.1/AddTask.runtimeconfig.json
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/2-AddTask/bin/Debug/netcoreapp3.1/AddTask.runtimeconfig.dev.json
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/2-AddTask/bin/Debug/netcoreapp3.1/AddTask.dll
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/2-AddTask/bin/Debug/netcoreapp3.1/AddTask.pdb
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/2-AddTask/obj/Debug/netcoreapp3.1/AddTask.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/2-AddTask/obj/Debug/netcoreapp3.1/AddTask.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/2-AddTask/obj/Debug/netcoreapp3.1/AddTask.AssemblyInfo.cs
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/2-AddTask/obj/Debug/netcoreapp3.1/AddTask.dll
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/2-AddTask/obj/Debug/netcoreapp3.1/AddTask.pdb

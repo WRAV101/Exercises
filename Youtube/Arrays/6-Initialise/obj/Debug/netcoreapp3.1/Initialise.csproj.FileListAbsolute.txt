@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/C#/Youtube/6-Initialise/bin/Debug/netcoreapp3.1/Initialise
+/Users/noormosia/Desktop/C#/Youtube/6-Initialise/bin/Debug/netcoreapp3.1/Initialise.deps.json
+/Users/noormosia/Desktop/C#/Youtube/6-Initialise/bin/Debug/netcoreapp3.1/Initialise.runtimeconfig.json
+/Users/noormosia/Desktop/C#/Youtube/6-Initialise/bin/Debug/netcoreapp3.1/Initialise.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C#/Youtube/6-Initialise/bin/Debug/netcoreapp3.1/Initialise.dll
+/Users/noormosia/Desktop/C#/Youtube/6-Initialise/bin/Debug/netcoreapp3.1/Initialise.pdb
+/Users/noormosia/Desktop/C#/Youtube/6-Initialise/obj/Debug/netcoreapp3.1/Initialise.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/Youtube/6-Initialise/obj/Debug/netcoreapp3.1/Initialise.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/Youtube/6-Initialise/obj/Debug/netcoreapp3.1/Initialise.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/Youtube/6-Initialise/obj/Debug/netcoreapp3.1/Initialise.dll
+/Users/noormosia/Desktop/C#/Youtube/6-Initialise/obj/Debug/netcoreapp3.1/Initialise.pdb

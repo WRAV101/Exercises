@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/C#/Youtube/2-emptyElements/bin/Debug/netcoreapp3.1/emptyElements
+/Users/noormosia/Desktop/C#/Youtube/2-emptyElements/bin/Debug/netcoreapp3.1/emptyElements.deps.json
+/Users/noormosia/Desktop/C#/Youtube/2-emptyElements/bin/Debug/netcoreapp3.1/emptyElements.runtimeconfig.json
+/Users/noormosia/Desktop/C#/Youtube/2-emptyElements/bin/Debug/netcoreapp3.1/emptyElements.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C#/Youtube/2-emptyElements/bin/Debug/netcoreapp3.1/emptyElements.dll
+/Users/noormosia/Desktop/C#/Youtube/2-emptyElements/bin/Debug/netcoreapp3.1/emptyElements.pdb
+/Users/noormosia/Desktop/C#/Youtube/2-emptyElements/obj/Debug/netcoreapp3.1/emptyElements.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/Youtube/2-emptyElements/obj/Debug/netcoreapp3.1/emptyElements.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/Youtube/2-emptyElements/obj/Debug/netcoreapp3.1/emptyElements.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/Youtube/2-emptyElements/obj/Debug/netcoreapp3.1/emptyElements.dll
+/Users/noormosia/Desktop/C#/Youtube/2-emptyElements/obj/Debug/netcoreapp3.1/emptyElements.pdb

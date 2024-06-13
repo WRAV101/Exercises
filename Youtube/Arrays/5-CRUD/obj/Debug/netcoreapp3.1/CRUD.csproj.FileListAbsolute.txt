@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/C#/Youtube/5-CRUD/obj/Debug/netcoreapp3.1/CRUD.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/C#/Youtube/5-CRUD/obj/Debug/netcoreapp3.1/CRUD.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/C#/Youtube/5-CRUD/obj/Debug/netcoreapp3.1/CRUD.AssemblyInfo.cs
+/Users/noormosia/Desktop/C#/Youtube/5-CRUD/bin/Debug/netcoreapp3.1/CRUD
+/Users/noormosia/Desktop/C#/Youtube/5-CRUD/bin/Debug/netcoreapp3.1/CRUD.deps.json
+/Users/noormosia/Desktop/C#/Youtube/5-CRUD/bin/Debug/netcoreapp3.1/CRUD.runtimeconfig.json
+/Users/noormosia/Desktop/C#/Youtube/5-CRUD/bin/Debug/netcoreapp3.1/CRUD.runtimeconfig.dev.json
+/Users/noormosia/Desktop/C#/Youtube/5-CRUD/bin/Debug/netcoreapp3.1/CRUD.dll
+/Users/noormosia/Desktop/C#/Youtube/5-CRUD/bin/Debug/netcoreapp3.1/CRUD.pdb
+/Users/noormosia/Desktop/C#/Youtube/5-CRUD/obj/Debug/netcoreapp3.1/CRUD.dll
+/Users/noormosia/Desktop/C#/Youtube/5-CRUD/obj/Debug/netcoreapp3.1/CRUD.pdb

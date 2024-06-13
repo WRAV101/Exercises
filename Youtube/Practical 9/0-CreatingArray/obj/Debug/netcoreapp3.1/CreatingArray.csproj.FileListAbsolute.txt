@@ -1,0 +1,11 @@
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/0-CreatingArray/bin/Debug/netcoreapp3.1/CreatingArray
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/0-CreatingArray/bin/Debug/netcoreapp3.1/CreatingArray.deps.json
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/0-CreatingArray/bin/Debug/netcoreapp3.1/CreatingArray.runtimeconfig.json
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/0-CreatingArray/bin/Debug/netcoreapp3.1/CreatingArray.runtimeconfig.dev.json
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/0-CreatingArray/bin/Debug/netcoreapp3.1/CreatingArray.dll
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/0-CreatingArray/bin/Debug/netcoreapp3.1/CreatingArray.pdb
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/0-CreatingArray/obj/Debug/netcoreapp3.1/CreatingArray.csprojAssemblyReference.cache
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/0-CreatingArray/obj/Debug/netcoreapp3.1/CreatingArray.AssemblyInfoInputs.cache
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/0-CreatingArray/obj/Debug/netcoreapp3.1/CreatingArray.AssemblyInfo.cs
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/0-CreatingArray/obj/Debug/netcoreapp3.1/CreatingArray.dll
+/Users/noormosia/Desktop/Youtube/Practicals/Practical 9/0-CreatingArray/obj/Debug/netcoreapp3.1/CreatingArray.pdb
